@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>camera_info</name>
+    <version>0.0.0</version>
+    <description>The yaml_to_camera_info package</description>
+    <maintainer email="your_email@example.com">Your Name</maintainer>
+    <license>TODO</license>
+
+    <buildtool_depend>catkin</buildtool_depend>
+    <depend>roscpp</depend>
+    <depend>sensor_msgs</depend>
+    <depend>yaml-cpp</depend>
+
+</package>
